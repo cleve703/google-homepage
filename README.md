@@ -1,1 +1,1 @@
-Description of my project goes here.
+This is my version of the Google webpage, which I created as a project in "The Odin Project."
